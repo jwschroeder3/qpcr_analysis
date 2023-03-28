@@ -1,0 +1,8 @@
+﻿sample_name,type,bio_Rep,geno,relative_concentration,picograms
+Bsub_only,dill_ser,1,Bsub,0.001,69.69
+Bsub_only,dill_ser,1,Bsub,0.01,478
+Bsub_only,dill_ser,1,Bsub,0.1,7178
+Bsub_only,dill_ser,1,Bsub,1,61027.5
+CC_only,dill_ser,1,CC,0.01,128
+CC_only,dill_ser,1,CC,0.1,1220
+CC_only,dill_ser,1,CC,1,11868

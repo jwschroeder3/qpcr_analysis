@@ -1,0 +1,13 @@
+name: pymc
+channels:
+    - conda-forge
+    - bioconda
+    - defaults
+dependencies:
+    - python
+    - numpy
+    - pandas
+    - matplotlib
+    - ipython
+    - seaborn
+    - pymc >= 4
