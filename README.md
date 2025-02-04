@@ -9,6 +9,6 @@ and run:
 ```bash
 # qpcr analysis
 python analysis_partI.py
-# comparing qpcr with HBD-seq enrichments
+# organize results into table
 python analysis_partII.py
 ```
